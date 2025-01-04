@@ -34,7 +34,7 @@
     "js-cookie": "^3.0.1",
     "linkify-react": "^3.0.4",
     "linkifyjs": "^3.0.5",
-    "next": "^14.2.10",
+    "next": "^14.2.21",
     "next-seo": "^5.4.0",
     "nextjs-google-analytics": "^2.1.0",
     "picomatch": "^4.0.2",
